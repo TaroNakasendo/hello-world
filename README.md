@@ -1,6 +1,4 @@
 # hello-world
-The first project.
-
 Hello, evelyone!
 
 I'm a japanese programmer. 
